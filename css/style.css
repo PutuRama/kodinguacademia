@@ -1,0 +1,44 @@
+/* CUSTOM PROPERTIES */
+
+:root {
+}
+
+/* ADJUSTMENT */
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	color-scheme: light dark;
+}
+
+img,
+picture,
+svg,
+video {
+	display: block;
+	max-width: 100%;
+}
+
+input,
+textarea,
+button,
+select {
+	font: inherit;
+}
+
+/* COMPOSITION */
+
+/* UTILITY */
+
+/* BLOCK */
+
+/* EXCEPTION */
